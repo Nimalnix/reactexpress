@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+div>h1{
+  text-align: center;
+  color:rgb(60, 5, 71);
+}
+
+.button {
+ background-color: aquamarine;
+  border-style:d;
+  color: rgb(254, 254, 254);
+  padding: 9px 20px;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+ 
+  
+  
+  cursor: pointer;
+}
